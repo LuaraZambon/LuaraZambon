@@ -4,6 +4,10 @@
   🚀 Web Developer | 🌸 Japan Enthusiast | 🎮 Gamer | 📚 Book Lover | 🌍 Traveler & Explorer
 </p>
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/9b/bf/ab/9bbfab096b84885d5493dac9a8691897.gif"/>
+</p>
+
 ---
 
 ## About Me
@@ -32,7 +36,7 @@ Now, I build dynamic, user-friendly web applications using the latest technologi
 
 ## 🎮 My Passions
 
-- Exploring the vibrant culture and futuristic technology of **Japan** 🇯🇵  
+- Exploring the vibrant culture and futuristic technology of **Japan** ⛩️
 - Traveling and discovering new places around the world 🌍  
 - Getting lost in the worlds of **video games** and immersive storytelling 🎮  
 - Diving into captivating **books** that open new perspectives 📚  
