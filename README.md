@@ -4,8 +4,8 @@
   🚀 Web Developer | 🌸 Japan Enthusiast | 🎮 Gamer | 📚 Book Lover | 🌍 Traveler & Explorer
 </p>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/9b/bf/ab/9bbfab096b84885d5493dac9a8691897.gif"/>
+<p align="center" >
+  <img width="500" height="100%" alt="image" src="https://i.pinimg.com/originals/cc/b8/85/ccb88559d6509fe72a36151d3eb8e558.gif" style="width: 100%;"/>
 </p>
 
 ---
