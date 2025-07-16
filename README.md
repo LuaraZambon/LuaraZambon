@@ -10,7 +10,7 @@
 
 ---
 
-## About Me
+## 🌸 About Me
 
 I’ve always been fascinated by **technology and innovation**, especially inspired by Japan — a land where tradition meets cutting-edge tech.  
 My passion for **exploring new places**, learning new things, and diving into stories through **books and games** shaped the way I see the world.
